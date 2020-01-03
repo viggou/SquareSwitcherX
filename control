@@ -1,0 +1,10 @@
+Package: com.yaypixxo.squareswitcherx
+Name: SquareSwitcherX
+Depends: mobilesubstrate, preferenceloader
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Reduce corner radius of iPhone X switcher cards
+Depiction: http://yaypixxo.com/depictions?p=com.yaypixxo.squareswitcherx
+Maintainer: YaYPIXXO <viggo@lekdorf.com>
+Author: YaYPIXXO <viggo@lekdorf.com>
+Section: Tweaks
